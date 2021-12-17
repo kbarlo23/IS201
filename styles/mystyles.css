@@ -1,0 +1,19 @@
+.heading
+    {font-size: larger;
+    justify-content: center;
+    font-weight: bold;}
+.resumelistheading 
+    {font-weight: bold;
+    font-style: italic;}
+.contactinfo 
+    {font-style: italic;
+    color:slategrey;}
+.facebook
+    {font-style: italic;
+    font-weight: normal;
+    font-size: smaller;}
+.anchor
+    {color:rgb(16, 54, 59);
+    font-size: smaller;}
+
+
